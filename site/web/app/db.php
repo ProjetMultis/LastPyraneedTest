@@ -1,0 +1,1 @@
+/Users/florian/Documents/mes-sites/pyraneed/site/web/app/plugins/query-monitor/wp-content/db.php
